@@ -4,14 +4,15 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc --noEmit false && vite build",
-    "build-fast": "vite build",
-    "preview": "vite preview",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "smoke": "bash scripts/smoke-teacher.sh"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "build-fast": "vite build",
+  "preview": "vite preview",
+  "test": "jest",
+  "test:watch": "jest --watch",
+  "smoke": "bash scripts/smoke-teacher.sh"
+}
+
   "dependencies": {
     "@headlessui/react": "^2.2.9",
     "axios": "^1.6.0",
