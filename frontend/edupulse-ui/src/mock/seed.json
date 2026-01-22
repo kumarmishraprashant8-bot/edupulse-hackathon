@@ -1,0 +1,59 @@
+{
+  "teacherQueries": [
+    {
+      "id": "mock-1",
+      "phone": "+919876543210",
+      "cluster": "Cluster A",
+      "topic": "subtraction-borrowing",
+      "text": "Students confused about subtraction borrowing when there's a zero in tens place",
+      "advice": "Try this 3-step pebble activity:\n1. Use 10 pebbles in groups. Show 13-7 concretely.\n2. When borrowing, physically move 1 group of 10 to ones place.\n3. Practice with zero: 40-7 requires 'opening' the 4 tens.",
+      "module_sample_link": "http://127.0.0.1:8000/templates/samples/subtraction-borrowing-module.pptx"
+    },
+    {
+      "id": "mock-2",
+      "phone": "+919876543211",
+      "cluster": "Cluster A",
+      "topic": "fractions-conceptual",
+      "text": "Students don't understand what 1/2 means. They think it's just a number",
+      "advice": "Build fraction understanding:\n1. Use paper folding: fold paper into halves, quarters.\n2. Draw and shade: 'Show me 3/4 of this rectangle'\n3. Compare fractions using same-size circles.",
+      "module_sample_link": "http://127.0.0.1:8000/templates/samples/fractions-conceptual-module.pptx"
+    },
+    {
+      "id": "mock-3",
+      "phone": "+919876543212",
+      "cluster": "Cluster B",
+      "topic": "classroom-management",
+      "text": "Class is very noisy and I can't get their attention during lessons",
+      "advice": "Improve classroom flow:\n1. Start with clear signal (clap pattern) for attention\n2. Use transition songs between activities\n3. Assign classroom helpers (materials, attendance)",
+      "module_sample_link": "http://127.0.0.1:8000/templates/samples/classroom-management-module.pptx"
+    }
+  ],
+  "aggregateData": {
+    "total_queries": 15,
+    "by_topic": {
+      "subtraction-borrowing": 5,
+      "fractions-conceptual": 3,
+      "multiplication-tables": 2,
+      "classroom-management": 2,
+      "parent-engagement": 1,
+      "reading-fluency": 1,
+      "absenteeism": 1
+    },
+    "by_cluster": {
+      "Cluster A": 7,
+      "Cluster B": 5,
+      "Cluster C": 3
+    },
+    "sample_queries": [
+      {
+        "id": "mock-1",
+        "cluster_id": "cluster-a",
+        "topic_tag": "subtraction-borrowing",
+        "narrative_text": "Students confused about subtraction borrowing when there's a zero in tens place",
+        "created_at": "2026-01-21T10:00:00Z",
+        "resolved": false,
+        "flagged_for_crp": false
+      }
+    ]
+  }
+}

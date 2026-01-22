@@ -1,0 +1,6 @@
+# Debug Failures Log
+# This file logs minimal request/response pairs and stack traces for debugging
+# NO SECRETS OR RAW PHONE NUMBERS ARE LOGGED
+
+[2026-01-22 00:00:00] Initial log file created
+[2026-01-22 00:00:00] Backend endpoints being tested and fixed

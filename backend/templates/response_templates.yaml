@@ -1,0 +1,112 @@
+# Response templates for teacher queries
+# Add new topics by adding entries below
+
+subtraction-borrowing:
+  advice: |
+    Try this 3-step pebble activity:
+    1. Use 10 pebbles in groups. Show 13-7 concretely.
+    2. When borrowing, physically move 1 group of 10 to ones place.
+    3. Practice with zero: 40-7 requires "opening" the 4 tens.
+  materials: "pebbles, place-value chart"
+  demo_video: "subtraction-borrowing.mp4"
+  duration: "15 min"
+
+fractions-conceptual:
+  advice: |
+    Build fraction understanding:
+    1. Use paper folding: fold paper into halves, quarters.
+    2. Draw and shade: "Show me 3/4 of this rectangle"
+    3. Compare fractions using same-size circles.
+  materials: "paper, colored pencils"
+  demo_video: "fractions-basics.mp4"
+  duration: "20 min"
+
+multiplication-tables:
+  advice: |
+    Make times tables stick:
+    1. Use skip counting songs (2s, 5s, 10s)
+    2. Array method: draw 3 rows of 4 dots
+    3. Daily 5-minute practice with flashcards
+  materials: "flashcards, grid paper"
+  demo_video: "multiplication-basics.mp4"
+  duration: "10 min"
+
+classroom-management:
+  advice: |
+    Improve classroom flow:
+    1. Start with clear signal (clap pattern) for attention
+    2. Use transition songs between activities
+    3. Assign classroom helpers (materials, attendance)
+  materials: "none needed"
+  demo_video: "classroom-management.mp4"
+  duration: "ongoing"
+
+parent-engagement:
+  advice: |
+    Bring parents into learning:
+    1. Send weekly 2-sentence SMS with home activity
+    2. Monthly community meeting with student demo
+    3. Create simple home learning kit (cards, number line)
+  materials: "SMS, learning kit template"
+  demo_video: "parent-engagement.mp4"
+  duration: "weekly"
+
+reading-fluency:
+  advice: |
+    Build reading fluency:
+    1. Daily 10-min paired reading (stronger with weaker)
+    2. Use leveled readers at 95% accuracy level
+    3. Track words per minute weekly
+  materials: "leveled readers, tracking sheet"
+  demo_video: "reading-fluency.mp4"
+  duration: "10 min daily"
+
+absenteeism:
+  advice: |
+    Address attendance:
+    1. Home visit to understand barriers (work, transport)
+    2. Celebrate 100% attendance monthly
+    3. Connect family with block resource person
+  materials: "attendance register"
+  demo_video: "attendance-strategies.mp4"
+  duration: "ongoing"
+
+assessment-formative:
+  advice: |
+    Use quick formative checks:
+    1. Exit ticket: 1 question on today's lesson
+    2. Thumbs up/down for understanding
+    3. Mini whiteboard responses (whole class)
+  materials: "exit slips, mini whiteboards"
+  demo_video: "formative-assessment.mp4"
+  duration: "5 min"
+
+differentiation:
+  advice: |
+    Differentiate instruction:
+    1. Group by readiness: 3 levels for same activity
+    2. Use station rotation (teacher, peer, independent)
+    3. Provide choice: students pick from 2-3 activities
+  materials: "leveled materials, station cards"
+  demo_video: "differentiation.mp4"
+  duration: "plan 20 min"
+
+addition-basic:
+  advice: |
+    Strengthen addition skills:
+    1. Use number line for visualization
+    2. Counting on strategy: start with larger number
+    3. Fact families: show 3+5=8, 5+3=8, 8-3=5, 8-5=3
+  materials: "number line, counters"
+  demo_video: "addition-basics.mp4"
+  duration: "15 min"
+
+general:
+  advice: |
+    Thank you for reaching out! Here are general tips:
+    1. Break down the challenge into small steps
+    2. Use concrete materials when possible
+    3. Connect with your CRP for classroom visit support
+  materials: "varies"
+  demo_video: "general-support.mp4"
+  duration: "varies"

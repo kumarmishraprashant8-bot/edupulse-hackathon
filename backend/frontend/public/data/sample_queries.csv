@@ -1,0 +1,21 @@
+phone,cluster,topic,text,consent_given
++919876543210,Cluster A,subtraction-borrowing,"Students confused about borrowing in subtraction, especially with zero in tens place",true
++919876543211,Cluster A,fractions-conceptual,"How do I teach fractions? Students don't understand half and quarter",true
++919876543212,Cluster B,multiplication-tables,"Need help with times tables. Students struggling to memorize",true
++919876543213,Cluster A,classroom-management,"Class is very noisy. Can't get their attention when transitioning activities",true
++919876543214,Cluster C,parent-engagement,"Parents don't come to meetings. How to involve them in child's learning?",true
++919876543215,Cluster B,reading-fluency,"Students reading very slowly. Word by word. How to improve fluency?",true
++919876543216,Cluster A,absenteeism,"Many students absent on Mondays and Fridays. Attendance very poor",true
++919876543217,Cluster C,assessment-formative,"How do I check if students understood today's lesson quickly?",true
++919876543218,Cluster B,differentiation,"Have students at different levels. How to teach all of them together?",true
++919876543219,Cluster A,subtraction-borrowing,"More questions about borrowing. Students make mistakes with zeros",true
++919876543220,Cluster C,addition-basic,"Some students still counting on fingers for simple addition",true
++919876543221,Cluster B,fractions-conceptual,"Fraction comparison is difficult for students. Which is bigger?",true
++919876543222,Cluster A,classroom-management,"Need better classroom organization strategies",true
++919876543223,Cluster C,reading-fluency,"Students decode letters but don't understand what they read",true
++919876543224,Cluster B,parent-engagement,"Want to send home activities but not sure what to send",true
++919876543225,Cluster A,multiplication-tables,"Skip counting songs - do you have any?",true
++919876543226,Cluster C,assessment-formative,"Exit tickets - how do I use them effectively?",true
++919876543227,Cluster B,differentiation,"Station rotation - need guidance on setting it up",true
++919876543228,Cluster A,subtraction-borrowing,"Third question about borrowing this week. Common problem",true
++919876543229,Cluster C,absenteeism,"Home visits - what questions should I ask parents?",true

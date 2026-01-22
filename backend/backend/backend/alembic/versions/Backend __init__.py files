@@ -1,0 +1,14 @@
+# backend/app/__init__.py
+"""EduPulse application package."""
+
+# backend/app/api/__init__.py
+"""API routes package."""
+
+# backend/app/services/__init__.py
+"""Services package."""
+
+# backend/app/utils/__init__.py
+"""Utilities package."""
+
+# backend/tests/__init__.py
+"""Tests package."""
